@@ -6,5 +6,13 @@ Also, for learning purpose it is better to be more hands on and actually configu
 
 ## Setting up Hadoop
 
+Follow the [instructions here](https://www.slideshare.net/SunilkumarMohanty3/install-apache-hadoop-on-mac-os-sierra-76275019) to set up Hadoop in your MacBook
+
+The PDF is also available [here](./setting_up_on_mac.pdf)
+
+## Setting up Cloudera retail_db
+
+
+## Free Learning Resources
 
 
