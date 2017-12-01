@@ -1,3 +1,3 @@
-# Cloudera CCA177 - Becoming a Hadoop and Spark Developer
+# Cloudera CCA177 - Hadoop and Spark Developer
 
 
