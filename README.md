@@ -12,7 +12,21 @@ The PDF is also available [here](./setting_up_on_mac.pdf)
 
 ## Setting up Cloudera retail_db
 
+Script to set up the [retail_db](./cloudera_retail_db.sql)
 
-## Free Learning Resources
+## Learning Resources
+* http://arun-teaches-u-tech.blogspot.my/p/certification-preparation-plan.html
+* https://www.coursera.org/learn/machine-learning
+* https://www.kaggle.com
+* https://www.youtube.com/playlist?list=PLf0swTFhTI8q0x0V1E6We5zBQ9UazHFY0
+* 
 
-
+## Fun to know
+* https://www.youtube.com/watch?v=rIofV14c0tc
+* https://www.youtube.com/watch?v=ccCblUZFM0w&t=4116s 
+* https://github.com/BenjiKCF/Neural-Network-with-Financial-Time-Series-Data
+* https://deeplearning4j.org/
+* https://keras.io/
+* http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+* https://skillsmatter.com/legacy_profile/tetiana-ivanova#skillscasts
+* https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH
