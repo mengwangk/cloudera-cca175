@@ -34,6 +34,11 @@ brew install scala
 brew install apache-spark
 ```
 
+* Copy spark-avro to $SPARK_HOME/libexec/jars
+
+
+## Tools and Commands
+[Link to the commands](HOWTO.md)
 
 ## Learning Resources
 * http://arun-teaches-u-tech.blogspot.my/p/certification-preparation-plan.html
