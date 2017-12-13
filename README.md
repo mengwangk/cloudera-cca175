@@ -38,7 +38,7 @@ brew install apache-spark
 
 
 ## Tools and Commands
-[Link to the commands](HOWTO.md)
+* [Import/export using sqoop, and how to use Spark DataFrame, SQL and RDD](HOWTO_orders_table.md)
 
 ## Learning Resources
 * http://arun-teaches-u-tech.blogspot.my/p/certification-preparation-plan.html
